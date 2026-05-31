@@ -6,6 +6,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
+    "test": "npm test",
     "lint": "eslint src --ext .ts"
   },
   "dependencies": {
